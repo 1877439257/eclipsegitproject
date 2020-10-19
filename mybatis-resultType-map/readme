@@ -18,6 +18,6 @@ resultType
 	6、查询结果可以放到Map集合当中，关键是：什么时候使用Map呢？
 		javabean不够用的时候。跨表。
 		
-		resultType222
+		resultType
 	
 	
