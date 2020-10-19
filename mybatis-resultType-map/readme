@@ -20,19 +20,4 @@ resultType
 		
 		resultType
 	
-	1、resultType专门用来指定查询结果集封装的数据类型。
 	
-	2、resultType可以使用：
-		javabean
-		简单类型
-		Map
-		...
-	
-	3、resultType只有select语句才有。
-	
-	4、resultType在select当中任何情况下都是不能省略的。
-	
-	5、resultType使用简单类型。
-	
-	6、查询结果可以放到Map集合当中，关键是：什么时候使用Map呢？
-		javabean不够用的时候。跨表。
